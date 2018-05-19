@@ -2,6 +2,7 @@ import numpy as np
 from keras import models
 from keras.datasets import imdb
 from keras.preprocessing.text import text_to_word_sequence
+import keras.preprocessing.text
 
 import feature
 
